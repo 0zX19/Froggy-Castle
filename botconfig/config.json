@@ -1,0 +1,29 @@
+{
+   "TOKEN": "",
+   "prefix": "`",
+   "ownerIDS": [
+      "370227219261423616"
+   ],
+   "status": {
+      "text": "{prefix}help | Froggy Music",
+      "text2": "Froggy Music",
+      "type": "LISTENING",
+      "url": "https://twitch.tv/#"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "main.paras888.repl.co", 
+            "port": 443, 
+            "password": "youshallnotpass", 
+            "retryDelay": 1000,
+            "secure": true
+         }
+      ]
+   },
+
+   "spotify": {
+      "clientID": "34df25cd2c004ed492a602266f7b3a06",
+      "clientSecret": "4ad1b1198f75437a8f7d6efac4ea2eaf"
+   }
+}
